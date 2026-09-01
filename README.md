@@ -44,18 +44,19 @@
 - **[System MSK](https://github.com/CEO-Alex-Schultz/SystemaMSK-showcase)**: клиентский сайт, разработанный с нуля. HTML/SCSS/JS, Three.js-анимация, PHP-бэкенд для форм.
 
 ## 💻 Приложения
-
 Десктопные и серверные приложения с собственной логикой и инфраструктурой.
-
+> *нажмите на название проекта, чтобы ознакомиться подробнее*
 
 - **[Exfil](https://github.com/CEO-Alex-Schultz/Exfil-showcase)**: самостоятельно хостящийся музыкальный плеер. FastAPI-бэкенд, Qt/QML-клиент, Celery и Redis для фоновых задач.
 - **[Todolist](https://github.com/CEO-Alex-Schultz/todolist-showcase)**: приложение для управления задачами.
 - **[Weather](https://github.com/CEO-Alex-Schultz/weather)**: десктопное приложение для мониторинга погоды. Python, PyQt6, Open-Meteo API.
 
 ## 🖥️ Linux и серверная инфраструктура
+> *нажмите на название проекта, чтобы ознакомиться подробнее*
 
 - **[Linux Showcase](https://github.com/CEO-Alex-Schultz/Linux-showcase)**: администрирование VDS на Ubuntu, настройка веб-серверов и безопасности, продакшен-деплой описанных выше проектов.
 
 ## 🤖 Нейросети
+> *нажмите на название проекта, чтобы ознакомиться подробнее*
 
 - **[AI Showcase](https://github.com/CEO-Alex-Schultz/AI-showcase/tree/main)**: опыт работы с ChatGPT, Codex, Claude, Gemini и практическая интеграция YandexGPT в собственный продукт (LumenForge).
