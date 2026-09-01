@@ -9,7 +9,6 @@
 ![Системный анализ](https://img.shields.io/badge/Системный%20анализ-464646?logoColor=white)
 ![Проектирование БД](https://img.shields.io/badge/Проектирование%20БД-464646?logoColor=white)
 ![Работа с требованиями](https://img.shields.io/badge/Работа%20с%20требованиями-464646?logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
@@ -19,6 +18,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
