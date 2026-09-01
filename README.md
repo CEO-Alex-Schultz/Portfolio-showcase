@@ -6,6 +6,10 @@
 
 ## Стек
 
+![Системный анализ](https://img.shields.io/badge/Системный%20анализ-464646?logoColor=white)
+![Проектирование БД](https://img.shields.io/badge/Проектирование%20БД-464646?logoColor=white)
+![Работа с требованиями](https://img.shields.io/badge/Работа%20с%20требованиями-464646?logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
