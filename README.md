@@ -46,7 +46,7 @@
 ## 💻 Приложения
 
 Десктопные и серверные приложения с собственной логикой и инфраструктурой.
-<sub><i>нажмите на название проекта, чтобы открыть репозиторий</i></sub>
+
 
 - **[Exfil](https://github.com/CEO-Alex-Schultz/Exfil-showcase)**: самостоятельно хостящийся музыкальный плеер. FastAPI-бэкенд, Qt/QML-клиент, Celery и Redis для фоновых задач.
 - **[Todolist](https://github.com/CEO-Alex-Schultz/todolist-showcase)**: приложение для управления задачами.
